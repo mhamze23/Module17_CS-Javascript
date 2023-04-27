@@ -32,7 +32,7 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 You are required to submit the following for review:
 
-* - [Github-gist](https://gist.github.com/mhamze23/)
+- [Github-gist](https://gist.github.com/mhamze23/)
 
 ---
 
